@@ -1,1 +1,1 @@
-# PRT-coin
+Pretorian coin
